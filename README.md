@@ -1,4 +1,4 @@
-# Kullanıcı Kaydetme Uygulaması Dökümanı
+# Uygulama Dökümanı
 
 Kullanici sistemde kayitli degil ise registration sayfasina gider ve kullanici adi, email ve sifre alanlarini doldurarak kaydini olusturur. Sonrasinda bu kayitli bilgiler ile tekrar sisteme giris yapabilir. 3 Adet ekranimiz vardir;
 
